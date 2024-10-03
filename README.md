@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Francisco Madaleno, PhD Student at MLSM Group @ DTU Management, Denmark. I am doing my PhD under the supervision of Professor Francisco Camara Pereira and Associate Professor Carlos M. Lima Azevedo. 
+Previously I was working as an Applied Scientist at Zalando, Berlin. 
+
 <!--
 **fmfsa/fmfsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
