@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I am Francisco Madaleno, PhD Student at MLSM Group @ DTU Management, Denmark. I am doing my PhD under the supervision of Professor Francisco Camara Pereira and Associate Professor Carlos M. Lima Azevedo. 
+I am Francisco Madaleno, PhD Student at MLSM Group @ DTU, Denmark. I am doing my PhD under the supervision of Professor Francisco Camara Pereira and Associate Professor Carlos M. Lima Azevedo. 
 Previously I was working as an Applied Scientist at Zalando, Berlin. 
+
+I am currently a researcher at Machine Learning for Smart Mobility (MLSM), specificaly on the subject of Active Learning Causal Discovery.
 
 <!--
 **fmfsa/fmfsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
